@@ -1,8 +1,10 @@
 {
   "author": "Shawn Martin-Truesdell",
-  "description": "A simple example of a LuaPluginLib mod based on the Non-Lethal Fall Damage mod by Gay Moth Aunt:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1131427227\n\nThis mod will reduce incoming fall damage to the player to 1 if it exceeds your current health.",
+  "description": "A simple example of a LuaPluginLib mod based on the Non-Lethal Fall Damage mod by Gay Moth Aunt:\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=1131427227\n\nThis mod will reduce incoming fall damage to the player to 1 if it exceeds your current health.\n\nUnlike the original mod, this version is NOT destructive and does NOT modify key scripts in a way that would make it incompatible with other mods.",
   "friendlyName": "Non-Lethal Fall Damage (LuaPluginLib)",
   "name": "LPL_NonLethalFallDamage",
+  "link": "steam://url/CommunityFilePage/2780038579",
+  "steamContentId": "2780038579",
   "tags": "Mechanics",
   "version": "1.0.0-alpha.1"
 }
