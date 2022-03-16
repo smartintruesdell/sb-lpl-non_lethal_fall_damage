@@ -1,0 +1,22 @@
+{
+  "name": "sb-lpl-non_lethal_fall_damage",
+  "version": "1.0.0",
+  "description": "A mod for Starbound to clamp fall damage to 1",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smartintruesdell/sb-lpl-non_lethal_fall_damage.git"
+  },
+  "author": "Shawn Martin-Truesdell <shawn@martin-truesdell.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/smartintruesdell/sb-lpl-non_lethal_fall_damage/issues"
+  },
+  "homepage": "https://github.com/smartintruesdell/sb-lpl-non_lethal_fall_damage#readme",
+  "dependencies": {
+    "semantic-release": "^19.0.2"
+  }
+}

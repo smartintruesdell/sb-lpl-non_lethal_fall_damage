@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/plugins/-",
+    "value": {
+      "name": "lpl_non_lethal_fall_damage_patch",
+      "path": "/plugins/lpl_non_lethal_fall_damage_patch.lua"
+    }
+  }
+]
